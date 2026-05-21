@@ -52,8 +52,8 @@ Agile Framework | Scrum Master | Backend Developer.
 ### Performance & Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheDarkness6859&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkness6859&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDarkness6859&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-maps.vercel.app/api/top-langs/?username=TheDarkness6859&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
